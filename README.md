@@ -2,7 +2,7 @@
 
 Fonte: https://basedosdados.org/dataset/br-ms-sim
 
-"Obs.: O código dessa análise está em arquivo zip, pois possui um mapa gráfico interativo 
+"Obs.: O código dessa análise está em arquivo rar, pois possui um mapa gráfico interativo 
 e istoo deixou o código com um tamanho muito grande."
 
 A base de dados SIM possui 6 tabelas tratadas, com informações que se conectam entre si.
