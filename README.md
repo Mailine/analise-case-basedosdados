@@ -1,6 +1,6 @@
 # Análise Base de Dados Sistema de Mortalidade (SIM)
 
-Fonte:https://basedosdados.org/dataset/br-ms-sim
+Fonte: https://basedosdados.org/dataset/br-ms-sim
 
 A base de dados SIM possui 6 tabelas tratadas, com informações que se conectam entre si.
 O objetivo dessa análise foi visualizar de maneira ampla o total de óbitos na série
